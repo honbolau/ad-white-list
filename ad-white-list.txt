@@ -1,1 +1,5 @@
+!Title: ad-white-list
+!Version: 202112221442
+!Total lines: 1
+
 @@||ad-putting.gw.zt-express.com^$domain=zto.com
